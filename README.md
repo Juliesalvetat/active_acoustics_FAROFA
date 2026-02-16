@@ -1,2 +1,2 @@
-# Processing active acoustique (FAROFA project)
+# Processing active acoustic (FAROFA project)
 
