@@ -1,2 +1,2 @@
-# organization attempt
-some description
+# Processing active acoustique (FAROFA projetc)
+
